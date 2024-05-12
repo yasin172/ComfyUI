@@ -1,0 +1,64 @@
+## ComfyUI-Manager: installing dependencies done.
+[2024-05-12 22:00] ** ComfyUI startup time: 2024-05-12 22:00:02.427203
+[2024-05-12 22:00] ** Platform: Linux
+[2024-05-12 22:00] ** Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+[2024-05-12 22:00] ** Python executable: /usr/bin/python3
+[2024-05-12 22:00] ** Log path: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/comfyui.log
+[2024-05-12 22:00] 
+Prestartup times for custom nodes:
+[2024-05-12 22:00]    0.0 seconds: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-05-12 22:00] 
+Total VRAM 20154 MB, total RAM 64103 MB
+[2024-05-12 22:00] Forcing FP16.
+[2024-05-12 22:00] Set vram state to: NORMAL_VRAM
+[2024-05-12 22:00] Device: cuda:0 NVIDIA RTX 4000 SFF Ada Generation : cudaMallocAsync
+[2024-05-12 22:00] VAE dtype: torch.bfloat16
+[2024-05-12 22:00] Using pytorch cross attention
+[2024-05-12 22:00] ### Loading: ComfyUI-Manager (V2.32.1)
+[2024-05-12 22:00] ### ComfyUI Revision: 2177 [794a357f] | Released on '2024-05-12'
+[2024-05-12 22:00] 
+Import times for custom nodes:
+[2024-05-12 22:00]    0.0 seconds: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/websocket_image_save.py
+[2024-05-12 22:00]    0.0 seconds: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-05-12 22:00] 
+[2024-05-12 22:00] Starting server
+
+[2024-05-12 22:00] To see the GUI go to: http://127.0.0.1:8188
+[2024-05-12 22:00] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-05-12 22:00] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-05-12 22:00] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-05-12 22:00] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-05-12 22:00] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/extension-node-map.json [DONE]
+[2024-05-12 22:00] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:00] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:00] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/4245046894_model-list.json [DONE]
+[2024-05-12 22:01] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/2259715867_alter-list.json [DONE]
+[2024-05-12 22:01] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:01] Update ComfyUI
+[2024-05-12 22:01] comfy_path: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI
+[2024-05-12 22:01] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:01] Start updating...[2KUpdating: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager[2KAll extensions are already up-to-date.
+[2024-05-12 22:01] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:01] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:01] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:04] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/4245046894_model-list.json [DONE]
+[2024-05-12 22:04] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:04] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:06] ERROR: The unsecure feature is disabled, restricting the installation of custom nodes. Please contact the administrator.
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:06] ERROR: The unsecure feature is disabled, restricting the reboot feature. Please contact the administrator.
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:06] ERROR: The unsecure feature is disabled, restricting the installation of custom nodes. Please contact the administrator.
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:06] ERROR: The unsecure feature is disabled, restricting the reboot feature. Please contact the administrator.
+[2024-05-12 22:06] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/extension-node-map.json [DONE]
+[2024-05-12 22:07] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:07] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:07] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:07] ERROR: The unsecure feature is disabled, restricting the installation of custom nodes. Please contact the administrator.
+[2024-05-12 22:07] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1514988643_custom-node-list.json [DONE]
+[2024-05-12 22:07] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
+[2024-05-12 22:07] FETCH DATA from: /var/www/vhosts/artcen.com.tr/httpdocs/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/1742899825_extension-node-map.json [DONE]
